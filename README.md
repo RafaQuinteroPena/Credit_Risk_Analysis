@@ -65,4 +65,4 @@ We wanted to create a machine learning module that would accurately predict cred
  -High Risk: 0.91
  -Low Risk: 0.95
 
-![This is an image](https://github.com/rafaq2000/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.png
+![This is an image](https://github.com/rafaq2000/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.png)
